@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720110064 source:c:\users\teco_\desktop\aulas\2024_2025\algoritmo e estrutura de dados (2ano)\exercicios\resoluções\codeblocks\exercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
